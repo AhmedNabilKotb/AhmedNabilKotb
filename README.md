@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Ahmed Nabil
 
-<!--
-**AhmedNabilKotb/AhmedNabilKotb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Lead Engineer @ [Python Pro Hub](https://pythonprohub.com)**
 
-Here are some ideas to get you started:
+I help developers move beyond basic tutorials and build production-grade Python architecture. When I'm not writing code for production, I'm translating complex documentation into step-by-step guides for the Python community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Currently working on:** Building the ultimate Python tutorials Roadmap at Python Pro Hub.
+* 🌱 **Currently focused on:** High-performance data processing (Polars), Web Dev (FastAPI/Django), and Applied AI.
+* 👯 **I’m looking to collaborate on:** Open-source Python tools and AI/Data engineering pipelines.
+* 📫 **How to reach me:** AhmedNabilKotb@Hotmail.com
+* ⚡ **Builder's Philosophy:** You cannot learn to ride a bike by reading a book about physics. Build projects.
+
+### 🛠️ The Modern Tech Stack
+* **Languages:** Python 3.10+, SQL
+* **Data Stack:** Polars, Pandas, NumPy, Scikit-Learn
+* **Web Frameworks:** FastAPI, Django, Flask
+* **AI & ML:** Hugging Face, OpenCV, Transformers
+* **DevOps & Automation:** Docker, Git, Celery, Redis
